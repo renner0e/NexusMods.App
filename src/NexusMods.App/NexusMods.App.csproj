@@ -40,7 +40,7 @@
         <ProjectReference Include="..\NexusMods.Telemetry\NexusMods.Telemetry.csproj" />
         <ProjectReference Include="..\Themes\NexusMods.Themes.NexusFluentDark\NexusMods.Themes.NexusFluentDark.csproj" />
     </ItemGroup>
-   
+
     <ItemGroup>
         <ProjectReference Include="..\Games\NexusMods.Games.StardewValley\NexusMods.Games.StardewValley.csproj" />
         <ProjectReference Include="..\Games\NexusMods.Games.RedEngine\NexusMods.Games.RedEngine.csproj" />
@@ -50,7 +50,7 @@
         <PackageReference Include="Microsoft.Extensions.Hosting" />
         <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" />
         <PackageReference Include="NLog.Extensions.Logging" />
-        <PackageReference Include="Spectre.Console" />
+        <PackageReference Include="runtime.any.System" />
     </ItemGroup>
 
     <ItemGroup>
