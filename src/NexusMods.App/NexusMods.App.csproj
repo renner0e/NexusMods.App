@@ -50,7 +50,7 @@
         <PackageReference Include="Microsoft.Extensions.Hosting" />
         <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" />
         <PackageReference Include="NLog.Extensions.Logging" />
-        <PackageReference Include="runtime.any.System" />
+        <PackageReference Include="runtime.any.System" Version="4.3.0" />
     </ItemGroup>
 
     <ItemGroup>
